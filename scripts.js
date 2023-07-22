@@ -1,6 +1,6 @@
 // Write your JavaScript code here.
 // Remember to pay attention to page loading!
-window.addEventListener("load",() => {
+window.addEventListener("load",function () {
     const takeoff = document.getElementById("takeoff");
     const flightStatus = document.getElementById("flightStatus");
     const shuttleBackground = document.getElementById("shuttleBackground");
